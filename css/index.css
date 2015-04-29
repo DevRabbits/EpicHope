@@ -1,0 +1,81 @@
+body
+{
+	background-color:#D8D8D8;
+}
+
+.imgpres
+{
+	margin-top:50px;
+	height:400px;
+}
+
+.imgpres img
+{
+	height:100%;
+	width:100%;
+	left:0%;
+	position:absolute;
+}
+
+.epicnav
+{
+	height:75px;
+	background-color:#FFFFFF;
+	text-align:center;
+}
+
+.navpart
+{
+	height:100%;
+	display:inline-block;
+	margin-left:10px;
+	margin-right:10px;
+	color:#0080FF;
+}
+
+.main
+{
+	height:400px;
+	background-color:#FFFFFF;
+}
+
+.connectform
+{
+	background-color:#A5DF00;
+	text-align:center;
+	height:300px;
+	width:50%;
+	margin:auto;
+	color:#000000;
+	margin-top:25px;
+	padding-top:50px;
+}
+
+.emptydiv
+{
+	height:50px;
+}
+
+.procard
+{
+	height:50%;
+	border:solid #000000 1px;
+}
+
+.procard img
+{
+	height:100%;
+	width:auto;
+}
+
+.procard h2
+{
+	display:inline-block;
+}
+
+.rescard
+{
+	height:50%;
+	border:solid #000000 1px;
+	text-align:center;
+}
